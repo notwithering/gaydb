@@ -1,6 +1,6 @@
 # gaydb
 
-the worlds gayest database for go
+the worlds gayest database for go that is just messagepack tied to a file
 
 gaydb provides a total of 2 methods, function Get to read the gaydb file into a struct and function Put to put a struct into a gaydb file
 
